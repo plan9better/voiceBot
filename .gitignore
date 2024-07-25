@@ -1,3 +1,9 @@
 bot-env
 .env
 pyrightconfig.json
+*.wav
+*.raw
+*.ogg
+*.opus
+
+__pycache__
